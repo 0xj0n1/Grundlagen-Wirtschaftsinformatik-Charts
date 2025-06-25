@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Seite-1" id="UYETo2p1xJg74lrRWvft">
-    <mxGraphModel dx="2316" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,14 +36,17 @@
         <mxCell id="ONKPaoe81_HWcrtORsaL-20" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Erstellung des Angebots&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="ONKPaoe81_HWcrtORsaL-3">
           <mxGeometry x="320" y="32.5" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ONKPaoe81_HWcrtORsaL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ONKPaoe81_HWcrtORsaL-3" source="ONKPaoe81_HWcrtORsaL-22" target="ONKPaoe81_HWcrtORsaL-28">
+        <mxCell id="ONKPaoe81_HWcrtORsaL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ONKPaoe81_HWcrtORsaL-3" source="ONKPaoe81_HWcrtORsaL-22" target="ONKPaoe81_HWcrtORsaL-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONKPaoe81_HWcrtORsaL-22" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="ONKPaoe81_HWcrtORsaL-3">
           <mxGeometry x="440" y="35" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ONKPaoe81_HWcrtORsaL-28" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Erfassung der Kundendaten&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="ONKPaoe81_HWcrtORsaL-3">
-          <mxGeometry x="530" y="30" width="80" height="30" as="geometry" />
+        <mxCell id="ONKPaoe81_HWcrtORsaL-28" value="Erfassung der Kundendaten" style="whiteSpace=wrap;labelBorderColor=none;fontSize=8;strokeColor=none;" vertex="1" parent="ONKPaoe81_HWcrtORsaL-3">
+          <mxGeometry x="530" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ONKPaoe81_HWcrtORsaL-44" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="ONKPaoe81_HWcrtORsaL-3">
+          <mxGeometry x="600" y="15" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONKPaoe81_HWcrtORsaL-4" value="Entwicklungsteam&amp;nbsp;&amp;nbsp;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="310" width="780" height="200" as="geometry" />
@@ -67,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONKPaoe81_HWcrtORsaL-6" value="Kunde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" width="770" height="60" as="geometry" />
+          <mxGeometry x="-50" width="780" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONKPaoe81_HWcrtORsaL-8" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-10" y="20" width="30" height="20" as="geometry" />
