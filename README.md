@@ -1,2 +1,2 @@
 # Grundlagen-Wirtschaftsinformatik-Charts
-### Einheit 1: Chart Pizza
+Alle Charts und Modelle, 
